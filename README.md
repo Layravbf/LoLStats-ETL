@@ -1,4 +1,4 @@
-# LoLStats-Insight: Um Pipeline de Dados End-to-End da Riot API para Visualização Analítica na AWS
+# LoLStats-ETL: Um Pipeline de Dados End-to-End da Riot API para Visualização Analítica na AWS
 ## Visão Geral
 LoLStats-Insight é um projeto de dados abrangente que encapsula todo o pipeline de dados, desde a obtenção de dados da [Riot Games API](https://developer.riotgames.com/apis) até a visualização analítica por meio de um painel. O uso de vários serviços da AWS estabelece um fluxo de trabalho de dados de ponta a ponta que é escalável e adaptável a casos de uso semelhantes. Este projeto fornece uma abordagem prática para entender e implementar processos ETL, armazenamento de dados, transformação de dados e visualização em um ambiente em nuvem.
 
